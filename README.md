@@ -1,6 +1,6 @@
-# 💳 Credit Card Fraud Analysis Power BI Project
+# 💳 Credit Card Fraud Risk Analysis Power BI Project 
 
-This end-to-end Power BI project focuses on detecting and analyzing credit card fraud using real-world transaction data. It covers data cleaning, exploratory data analysis (EDA), interactive dashboard creation, and risk assessment metrics. The project highlights how banks and financial institutions can leverage data visualization and analytics to identify fraudulent patterns, assess high-risk transactions, and support data-driven fraud prevention strategies.
+* This end-to-end Power BI project focuses on detecting and analyzing credit card fraud using real-world transaction data. It covers data cleaning, exploratory data analysis (EDA), interactive dashboard creation, and risk assessment metrics. The project highlights how banks and financial institutions can leverage data visualization and analytics to identify fraudulent patterns, assess high-risk transactions, and support data-driven fraud prevention strategies.
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -26,7 +26,7 @@ This end-to-end Power BI project focuses on detecting and analyzing credit card 
 
 ## 📷 Preview of the Dashboard
 
-![Dashboard Overview](./credit_card_analysis.png)
+![Dashboard Overview](/credit_card_analysis.png)
 
 ---
 
