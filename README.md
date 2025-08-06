@@ -27,7 +27,7 @@
 
 ## 📷 Preview of the Dashboard
 
-![Dashboard Overview](./credit_fraud_analysis.png)
+![Dashboard Overview](./credit_card_analysis.png)
 
 ---
 
